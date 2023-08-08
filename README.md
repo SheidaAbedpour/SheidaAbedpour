@@ -31,8 +31,10 @@ src="https://img.shields.io/github/followers/SheidaAbedpour?logo=github&style=fo
 
 <p align="left"> <a href="https://www.github.com/SheidaAbedpour" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sheida-abedpour-sh02" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+### Badges 
 
-<b>My GitHub Stats</b>
+<b>My GitHub Stats</b>   
 
 <a href="http://www.github.com/SheidaAbedpour"><img src="https://github-readme-stats.vercel.app/api?username=SheidaAbedpour&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="SheidaAbedpour's GitHub stats" /></a>
+
+(https://s8.uupload.ir/files/daftpunktocat-thomas_4tbf.gif)
