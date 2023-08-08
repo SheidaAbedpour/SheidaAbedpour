@@ -37,4 +37,4 @@ src="https://img.shields.io/github/followers/SheidaAbedpour?logo=github&style=fo
 
 <a href="http://www.github.com/SheidaAbedpour"><img src="https://github-readme-stats.vercel.app/api?username=SheidaAbedpour&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="SheidaAbedpour's GitHub stats" /></a>
 
-(https://s8.uupload.ir/files/daftpunktocat-thomas_4tbf.gif)
+![] (https://s8.uupload.ir/files/daftpunktocat-thomas_4tbf.gif)
