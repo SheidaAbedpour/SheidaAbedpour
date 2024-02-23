@@ -10,8 +10,8 @@ I am a dedicated student at the University of Isfahan, currently majoring in Com
 * ✉️  You can contact me at [sheida.abedpour2002@gmail.com](mailto:sheida.abedpour2002@gmail.com)
 * 🧠  I'm learning Machine Learning
 
-<a href="https://www.github.com/SheidaAbedpour" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/SheidaAbedpour?logo=github&style=for-the-badge&color=14b8a6&labelColor=000000" /></a>
+![](https://komarev.com/ghpvc/?username=SheidaAbedpour&color=14b8a6&style=for-the-badge&label=PROFILE+VIEWS)
+
 
 ### Skills
 
@@ -35,4 +35,6 @@ src="https://img.shields.io/github/followers/SheidaAbedpour?logo=github&style=fo
 
 <b>My GitHub Stats</b>   
 
-<a href="http://www.github.com/SheidaAbedpour"><img src="https://github-readme-stats.vercel.app/api?username=SheidaAbedpour&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="SheidaAbedpour's GitHub stats" /></a> ![](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-thomas.gif)
+<a href="http://www.github.com/SheidaAbedpour"><img src="https://github-readme-stats.vercel.app/api?username=SheidaAbedpour&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="SheidaAbedpour's GitHub stats" /></a> 
+
+![](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-thomas.gif)
