@@ -33,8 +33,13 @@ I am a dedicated student at the University of Isfahan, currently majoring in Com
 
 ### Badges 
 
-<b>My GitHub Stats</b>   
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SheidaAbedpour&show_icons=true&theme=rose_pine" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SheidaAbedpour&layout=compact&langs_count=8&card_width=320&theme=rose_pine" />
+</a>
 
-<a href="http://www.github.com/SheidaAbedpour"><img src="https://github-readme-stats.vercel.app/api?username=SheidaAbedpour&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="SheidaAbedpour's GitHub stats" /></a> 
+
 
 ![](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-thomas.gif)
