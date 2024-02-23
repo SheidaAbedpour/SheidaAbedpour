@@ -26,7 +26,6 @@ I am a dedicated student at the University of Isfahan, currently majoring in Com
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/SheidaAbedpour" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sheida-abedpour-sh02" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
@@ -39,7 +38,3 @@ I am a dedicated student at the University of Isfahan, currently majoring in Com
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SheidaAbedpour&layout=compact&langs_count=8&card_width=320&theme=rose_pine" />
 </a>
-
-
-
-![](https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-thomas.gif)
